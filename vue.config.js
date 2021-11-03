@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/dist/'
+  publicPath: '/Vue-git-demo/dist/'
 }
